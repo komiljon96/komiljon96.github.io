@@ -1,0 +1,15 @@
+h1, h3, p, ul
+{
+    font-family: "Calibri";
+    color: #0000ff;
+}
+ul
+{
+	font-size: 15pt;
+}
+td
+{
+	font-family: "Calibri";
+	font-size: 15pt;
+	color: #ff0000;
+}
